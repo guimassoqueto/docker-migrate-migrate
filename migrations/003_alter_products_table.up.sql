@@ -1,0 +1,2 @@
+ALTER TABLE IF EXISTS products
+ADD COLUMN IF NOT EXISTS product_description VARCHAR(250);
