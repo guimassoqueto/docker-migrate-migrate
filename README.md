@@ -1,6 +1,6 @@
 > ### Testing the [Migrate/Migrate](https://github.com/golang-migrate/migrate)
 
-This repo is functionality complete — PRs and issues welcome!
+This repo is functionality complete — PRs and issues are welcome!
 
 # Getting started
 Pre-requisites:
